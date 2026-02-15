@@ -6,4 +6,4 @@ opencv-python-headless==4.10.0.84
 Pillow==11.0.0
 Werkzeug==3.0.1
 tqdm==4.66.1
-mask-rcnn
+git+https://github.com/matterport/Mask_RCNN.git
