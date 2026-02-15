@@ -1,45 +1,11 @@
 Flask==3.0.0
-
-# Gunicorn
-
 gunicorn==21.2.0
-
-# Numpy
-
-numpy==1.24.3
-
-# TensorFlow
-
-tensorflow==2.13.0
-
-# Keras
-
-keras==2.13.0
-
-# OpenCV
-
-opencv-python==4.8.1.78
-
-# Pillow
-
-Pillow==10.0.0
-
-# Scikit-image
-
-scikit-image==0.21.0
-
-# Matplotlib
-
-matplotlib==3.7.2
-
-# pycocotools
-
-pycocotools==2.0.6
-
-# tqdm
-
+numpy==1.26.4
+tensorflow==2.16.1
+keras==3.0.5
+opencv-python==4.10.0.84
+Pillow==11.0.0
+scikit-image==0.23.2
+matplotlib==3.9.0
+Werkzeug==3.0.1
 tqdm==4.66.1
-
-# imgaug
-
-imgaug==0.4.0
