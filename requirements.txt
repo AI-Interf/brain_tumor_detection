@@ -1,11 +1,9 @@
 Flask==3.0.0
 gunicorn==21.2.0
-numpy==1.26.4
-tensorflow==2.16.1
-keras==3.0.5
+numpy>=2.0.0
+tensorflow>=2.20.0
 opencv-python==4.10.0.84
 Pillow==11.0.0
-scikit-image==0.23.2
 matplotlib==3.9.0
 Werkzeug==3.0.1
 tqdm==4.66.1
